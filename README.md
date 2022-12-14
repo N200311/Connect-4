@@ -1,4 +1,4 @@
-# Connec-4
+# Connect-4
 Connect-4 game made by Python with various libraries and GUI. A group project I did with 3 others.
 
 Idea description: (Connect Four) is a two-player connection board game in which players select a colour and take turns dropping coloured discs into a seven-column, six-row vertically suspended grid.
